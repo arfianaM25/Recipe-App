@@ -21,5 +21,6 @@ Recipe App ini adalah tampilan aplikasi mobile berbasis Flutter yang dirancang u
 4. Bahan-bahan Burger: Menampilkan bahan-bahan yang diperlukan untuk membuat resep burger.
 
 ## Demo APK
+https://github.com/user-attachments/assets/f0324bb6-1f8d-44d3-8d67-536f6cba75f7
 
 ## Screenshoot
