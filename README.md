@@ -1,4 +1,4 @@
-# flutter_application
+# Recipe-App
 
 A new Flutter project.
 
